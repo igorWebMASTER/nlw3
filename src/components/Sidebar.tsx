@@ -2,7 +2,8 @@ import React from 'react';
 import { FiArrowLeft } from 'react-icons/fi';
 import mapMarkerImg from '../images/map-maker.svg';
 
-import '../styles/components/sidebar.css';
+import '../styles/components/Sidebar.css';
+
 import { useHistory } from 'react-router-dom';
 
 export default function Sidebar() {
